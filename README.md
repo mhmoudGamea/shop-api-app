@@ -5,8 +5,7 @@
   <img src='demo%20ScreenShoots/Screenshot_20221208-204203.png' width='230'/>
   <img src='demo%20ScreenShoots/Screenshot_20221207-124911.png' width='230'/>
   <img src='demo%20ScreenShoots/Screenshot_20221208-202131.png' width='230'/>
-  
-  <hr/>
+
   
   <img src='demo%20ScreenShoots/Screenshot_20221207-152034.png' width='230'/>
   <img src='demo%20ScreenShoots/Screenshot_20221208-210007.png' width='230'/>
